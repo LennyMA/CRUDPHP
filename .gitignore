@@ -1,0 +1,8 @@
+# Ignorar el archivo de configuracion .env
+.env
+
+# Ignorar la carpeta vendor generada por Composer
+vendor/
+
+# Ignorar el archivo de bloqueo de Composer
+composer.lock
